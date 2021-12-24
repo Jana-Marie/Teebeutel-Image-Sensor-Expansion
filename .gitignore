@@ -1,0 +1,9 @@
+*.kicad_pcb-bak
+*.sch-bak
+*.zip
+*-cache.lib
+_autosave*
+Teebeutel.xml
+fp-info-cache
+fp-lib-table
+sym-lib-table

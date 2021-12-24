@@ -1,0 +1,37 @@
+# Teebeutel Expansion
+
+This is a sample Expansion Board for the Teebeutel v1.0.
+
+You have an I²C-Interface, WS2812-Interface, Serial-Interface and 9 GPIO pins at your disposal. With these you can expand the Teebeutels feature set.
+
+Further documentation on the interfaces can be found here: [teebeutel.entropia.de](https://teebeutel.entropia.de)
+
+## Stripboard
+
+With the Stripboard version you can quickly prototype new accessories with conventional  through-hole parts. You can also utilize some SMD components using the SMD-Pads at the top of the board.
+
+## Blank
+
+The Blank version can be used as a template the design of your own custom Expansion-PCBs.
+
+## Expansion Boards
+
+These Expansion Boards have been published:
+
+- 
+
+- Yours?
+
+
+### Publishing your Expansion Board
+
+If you want to publish your Expansions please keep this in mind:
+- Please remember to publish your Expansion under an OSHW-License!
+  We want to keep the Teebeutle and it's expansions accsassible for everyone. 
+
+- Try to use an accessible file format (KiCad, EAGLE, PDF, Images)
+
+- Please document your Hardware and Software
+
+To publish your Expansion feel free to create a Pull-Request to add a link to your Expansion (i.e. Repository, Documentation, etc.) above.
+
